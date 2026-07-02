@@ -8,7 +8,7 @@ MSc student in Biomedical Engineering - Electronic Technologies - (Smart Wearabl
 
 ### About me
 
-I work on **wearable biomedical sensing, embedded systems, and signal processing** — from designing the hardware and firmware that acquire a physiological signal, to the pipelines that clean, analyze, and extract meaning from it.
+My works involve **wearable biomedical sensing, embedded systems, and signal processing** — from designing the hardware and firmware that acquire a physiological signal, to the pipelines that clean, analyze, and extract meaning from it.
 
 I'm interested in physiological signal processing, embedded biosensor design, and machine learning applied to biomedical data.
 
